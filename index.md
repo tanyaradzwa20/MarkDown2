@@ -32,8 +32,9 @@ Markdown is portable. Files containing Markdown-formatted text can be opened usi
 
 **Output**
 
-Hear more about me, subscribe and like on my social media platforms. Your support means a lot to mE
+Hear more about me, subscribe and like on my social media platforms. Your support means a lot to me
 ***
+
  **3. Now insert an image of yourself with caption of your choice. Code to insert an image is below.**
 
 `![Alt Myself](/Antonios.jpg)`
