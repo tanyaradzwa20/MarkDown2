@@ -17,7 +17,7 @@
 ***
 ### In this Chapter we will create a simple website using markdown syntax
 
-1. Create a Heading tag with text describing yourself. The code to create a heading tag is below.
+1. Open your visual studio and craete a file ndex.md for markdown. Inside your file create a Heading tag with text describing yourself. The code to create a heading tag is below.
 
 ## Hello world, Tanyaradzwa is my name. I am 21 year old lady based in a small town called Harare in Zimbabwe. I am a Web Developer at Uncommon.org, learning/working to be a fullstack developer. 
 ***
