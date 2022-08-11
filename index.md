@@ -32,7 +32,8 @@ Markdown is portable. Files containing Markdown-formatted text can be opened usi
 
 **Output**
 
-Hear more about me, subscribe and like on my social media platforms. Your support means a lot to me
+Hear more about me, subscribe and like on my social media platforms. Your support means a lot to me.
+
 ***
 
  **3. Now insert an image of yourself with caption of your choice. Code to insert an image is below.**
@@ -92,6 +93,8 @@ an example</a>`
 *<a href="https://tanyaradzwa20.github.io/MarkDown2/#myself" title="Title">Facebook</a>*
 *<a href="https://tanyaradzwa20.github.io/MarkDown2/#myself" title="Title">Instagram</a>*
 *<a href="https://tanyaradzwa20.github.io/MarkDown2/#myself" title="Title">Tiktok</a>*
+
+***
 
 **7. Lastly insert copyright text wrapped in a `<p></p>` tag. To insert actual code in your markdown use the following code without the brackets.**
 
