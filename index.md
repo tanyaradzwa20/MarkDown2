@@ -18,7 +18,7 @@ Markdown is portable. Files containing Markdown-formatted text can be opened usi
 ***
 ### In this Chapter we willg create a simple website using markdown syntax
 
-1. **Open your visual studio and create a file index.md Inside your file create a Heading tag with text  hello world. The code to create a heading tag is below.**
+**1. Open your visual studio and create a file index.md Inside your file create a Heading tag with text  hello world. The code to create a heading tag is below.**
 
 `#Hello world, my name is Tanya`
 
@@ -26,7 +26,7 @@ Markdown is portable. Files containing Markdown-formatted text can be opened usi
 ## Hello world, my name is Tanya. 
 
 ***
-2. **Below the heading tag, create a paragragh with text descibing yourself. Find the syntax below to insert a paragragh.**
+**2. Below the heading tag, create a paragragh with text descibing yourself. Find the syntax below to insert a paragragh.**
 
 `Here more about me, subscribe and like on my social media platforms. Your support means a lot to me`
 
@@ -34,7 +34,7 @@ Markdown is portable. Files containing Markdown-formatted text can be opened usi
 
 Hear more about me, subscribe and like on my social media platforms. Your support means a lot to mE
 ***
-3. **Now insert an image about yourself with caption of your choice. Code to insert an image is below.**
+ **3. Now insert an image of yourself with caption of your choice. Code to insert an image is below.**
 
 `![Alt Myself](/Antonios.jpg)`
 
@@ -44,7 +44,7 @@ Hear more about me, subscribe and like on my social media platforms. Your suppor
 ![Alt text](/Antonios.jpg)
 
 ***
-4. **Create an ordered list of chores you do like or don't like doing at home,for chores you don't like strikethrough. Your list should be indented properly.**
+**4. Create an ordered list of chores you do like or don't like doing at home,for chores you don't like strikethrough. Your list should be indented properly.**
 
 
 `>>1. Chore1`
@@ -62,8 +62,8 @@ Hear more about me, subscribe and like on my social media platforms. Your suppor
 >>5. Ioning
 
 ***
-5. **Create an unorder list of things you mostly do during hours, insert a heading tag with text "my daily task". 
-An example of how you create list tags is below**
+
+**5. Create an unorder list of things you mostly do during hours, insert a heading tag with text "my daily task". An example of how you create list tags is below**
 
 `- Task1`
 
@@ -81,7 +81,7 @@ An example of how you create list tags is below**
 
 ***
 
-6. **Create an achor tag with italicized title of your social media platforms. The text should be  The code to insert links is below.**
+**6. Create an achor tag with italicized title of your social media platforms. The text should be  The code to insert links is below.**
 
 `*<a href="https://tanyaradzwa20.github.io/MarkDown2/#myself" title="Facebook">*
 an example</a>`
@@ -92,6 +92,10 @@ an example</a>`
 *<a href="https://tanyaradzwa20.github.io/MarkDown2/#myself" title="Title">Instagram</a>*
 *<a href="https://tanyaradzwa20.github.io/MarkDown2/#myself" title="Title">Tiktok</a>*
 
-7. Lastly insert copyright text using a `<p></p>` tag. To insert actual code in your markdown use the following code without the brackets.
+**7. Lastly insert copyright text wrapped in a `<p></p>` tag. To insert actual code in your markdown use the following code without the brackets.**
 
 ``(`<p>Copyright. all rights reserved</p>`)``
+
+**Output**
+
+`<p>Copyright. all rights reserved</p>`
